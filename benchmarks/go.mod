@@ -8,18 +8,18 @@ require (
 	cloud.google.com/go v0.115.0
 	cloud.google.com/go/spanner v1.64.0
 	github.com/google/uuid v1.6.0
-	github.com/googleapis/go-sql-spanner v1.4.0
-	google.golang.org/api v0.186.0
+	github.com/googleapis/go-sql-spanner v1.5.0
+	google.golang.org/api v0.187.0
 	google.golang.org/grpc v1.64.0
 	google.golang.org/protobuf v1.34.2
 )
 
 require (
-	cloud.google.com/go/auth v0.6.0 // indirect
+	cloud.google.com/go/auth v0.6.1 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.2 // indirect
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	cloud.google.com/go/iam v1.1.9 // indirect
-	cloud.google.com/go/longrunning v0.5.8 // indirect
+	cloud.google.com/go/longrunning v0.5.9 // indirect
 	github.com/GoogleCloudPlatform/grpc-gcp-go/grpcgcp v1.5.0 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
